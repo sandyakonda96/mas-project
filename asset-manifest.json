@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mas-project/static/css/main.1f697da4.css",
+    "main.js": "/mas-project/static/js/main.c6fbfcdd.js",
+    "static/js/453.5f365a00.chunk.js": "/mas-project/static/js/453.5f365a00.chunk.js",
+    "index.html": "/mas-project/index.html",
+    "main.1f697da4.css.map": "/mas-project/static/css/main.1f697da4.css.map",
+    "main.c6fbfcdd.js.map": "/mas-project/static/js/main.c6fbfcdd.js.map",
+    "453.5f365a00.chunk.js.map": "/mas-project/static/js/453.5f365a00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f697da4.css",
+    "static/js/main.c6fbfcdd.js"
+  ]
+}
